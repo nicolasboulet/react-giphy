@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import Gif from './gif.jsx';
+import React from 'react';
+import Gif from './gif';
 
 const GifList = (props) => {
   return (
